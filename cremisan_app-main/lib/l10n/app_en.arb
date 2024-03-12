@@ -1,0 +1,1416 @@
+{
+    "language":"English",
+    "@language":{
+        "description":"the current language"
+    },
+
+    "plants":"Plants",
+    "@plants":{
+        "description":"Plants"
+    },
+    "animals":"Animals",
+    "@animals":{
+        "description":"Animals"
+    },
+    
+        "animal_categories":"Animal Categories",
+    "@animal_categories":{
+        "description":"animal_categories"
+    },
+        "plant_categories":"Plant Categories",
+    "@plant_categories":{
+        "description":"plant_categories"
+    },
+    "noData":"Empty Data",
+    "@noData":{
+        "description":"noData"
+    },
+    "search":"Search",
+    "@search":{
+        "description":"search"
+    },
+
+    "helloWorld":"Hello world",
+    "@helloWorld":{
+        "description":"greeting"
+    },
+
+    "activities":"Activities",
+    "@activities":{
+        "description":"act"
+    },
+    "seeAll":"See All",
+    "@seeAll":{
+        "description":"see"
+    },
+    "home":"Home",
+    "@home":{
+        "description":"home"
+
+    },
+    "about":"About Us",
+    "@about":{
+        "description":"about"
+
+    },
+
+    "contact":"Contact Us",
+    "@contact":{
+        "description":"contact"
+
+    },
+
+   "profile":"My Profile",
+    "@profile":{
+        "description":"profile"
+
+    },
+   "logout":"Log Out",
+    "@logout":{
+        "description":"log"
+
+    },
+   "instructionsTitle":"Cremisan Instruction",
+    "@instructionsTitle":{
+        "description":"instructionsTitle"
+
+    },
+   "educational":"Educational",
+    "@educational":{
+        "description":"educational"
+
+    },
+   "entertainment":"Entertainment",
+    "@entertainment":{
+        "description":"entertainment"
+
+    },
+   "religious":"Religious",
+    "@religious":{
+        "description":"religious"
+
+    },
+   "environmental":"Environmental",
+    "@environmental":{
+        "description":"environmental"
+
+    },
+   "instructions":"Instructions",
+    "@instructions":{
+        "description":"instructions"
+
+    },
+   "settings":"Settings",
+    "@settings":{
+        "description":"settings"
+
+    },
+   "account":"Account",
+    "@account":{
+        "description":"account"
+
+    },
+   "changePassword":"Change Password",
+    "@changePassword":{
+        "description":"changePassword"
+
+    },
+   "contentSettings":"Content Settings",
+    "@contentSettings":{
+        "description":"contentSettings"
+
+    },
+   "social":"Social",
+    "@social":{
+        "description":"social"
+
+    },
+   "language":"Language",
+    "@language":{
+        "description":"language"
+
+    },
+   "privacyandSecurity":"Privacy and Security",
+    "@privacyandSecurity":{
+        "description":"privacyandSecurity"
+
+    },
+   "location":"Location",
+    "@location":{
+        "description":"location"
+
+    },
+   "birthday":"Birthday",
+    "@birthday":{
+        "description":"birthday"
+
+    },
+   "userManagment":"User Managment",
+    "@userManagment":{
+        "description":"userManagment"
+
+    },
+   "salam":"Salam",
+    "@salam":{
+        "description":"salam"
+
+    },
+   "additionalInfo":"ِAdditional Information",
+    "@additionalInfo":{
+        "description":"additionalInfo"
+
+    },
+   "selectedlang":"Select Language",
+    "@selectedlang":{
+        "description":"selectedlang"
+
+    },
+   "wlcCremisan":"ًWelcome to Cremisan!",
+    "@wlcCremisan":{
+        "description":"wlcCremisan"
+
+    },
+   "bioIntro":"Discover the rich plant and animal life in the Cremisan Valley. Learn about the diverse species that inhabit this beautiful area.",
+    "@bioIntro":{
+        "description":"bioIntro"
+
+    },
+
+    "add_animal_category": "Add Animal Category",
+    "@add_animal_category": {
+        "description": "add_animal_category"
+    },
+
+    "english_name": "English Name",
+    "@english_name": {
+        "description": "english_name"
+    },
+
+    "please_enter_category_name": "Please enter a category name",
+    "@please_enter_category_name": {
+        "description": "please_enter_category_name"
+    },
+
+    "submit": "Submit",
+    "@submit": {
+        "description": "submit"
+    },
+
+    "please_enter_description_arabic": "Please enter a description in Arabic",
+    "@please_enter_description_arabic": {
+        "description": "please_enter_description_arabic"
+    },
+
+    "description_arabic": "Description (Arabic)",
+    "@description_arabic": {
+        "description": "description_arabic"
+    },
+
+    "please_enter_description_english": "Please enter a description in English",
+    "@please_enter_description_english": {
+        "description": "please_enter_description_english"
+    },
+
+    "description_english": "Description (English)",
+    "@description_english": {
+        "description": "description_english"
+    },
+
+    "select_category": "Select Category",
+    "@select_category": {
+        "description": "select_category"
+    },
+
+    "please_enter_name_arabic": "Please enter a name in Arabic",
+    "@please_enter_name_arabic": {
+        "description": "please_enter_name_arabic"
+    },
+
+    "name_arabic": "Name (Arabic)",
+    "@name_arabic": {
+        "description": "name_arabic"
+    },
+
+    "please_enter_english_name": "Please enter an English name",
+    "@please_enter_english_name": {
+        "description": "please_enter_english_name"
+    },
+
+    "name_english": "Name (English)",
+    "@name_english": {
+        "description": "name_english"
+    },
+
+    "add_animal": "Add Animal",
+    "@add_animal": {
+        "description": "add_animal"
+    },
+
+    "please_enter_url_location": "Please enter a URL location",
+    "@please_enter_url_location": {
+        "description": "please_enter_url_location"
+    },
+
+    "location_url": "Location URL",
+    "@location_url": {
+        "description": "location_url"
+    },
+
+    "please_enter_event_time": "Please enter Event Time",
+    "@please_enter_event_time": {
+        "description": "please_enter_event_time"
+    },
+
+    "time": "Time",
+    "@time": {
+        "description": "time"
+    },
+
+    "please_enter_event_date": "Please enter Event Date",
+    "@please_enter_event_date": {
+        "description": "please_enter_event_date"
+    },
+
+    "date": "Date",
+    "@date": {
+        "description": "date"
+    },
+
+    "please_enter_detailed_address_arabic": "Please enter a detailed address",
+    "@please_enter_detailed_address_arabic": {
+        "description": "please_enter_detailed_address_arabic"
+    },
+
+    "detailed_address_arabic": "Detailed Address (Arabic)",
+    "@detailed_address_arabic": {
+        "description": "detailed_address_arabic"
+    },
+
+    "please_enter_detailed_address_english": "Please enter a detailed address",
+    "@please_enter_detailed_address_english": {
+        "description": "please_enter_detailed_address_english"
+    },
+
+    "detailed_address_english": "Detailed Address (English)",
+    "@detailed_address_english": {
+        "description": "detailed_address_english"
+    },
+
+    "please_enter_place_arabic": "Please enter a Place",
+    "@please_enter_place_arabic": {
+        "description": "please_enter_place_arabic"
+    },
+
+    "place_arabic": "Place (Arabic)",
+    "@place_arabic": {
+        "description": "place_arabic"
+    },
+
+    "place_english": "Place (English)",
+    "@place_english": {
+        "description": "place_english"
+    },
+
+    "please_enter_description": "Please enter a description",
+    "@please_enter_description": {
+        "description": "please_enter_description"
+    },
+
+    "description_arabic": "Description (Arabic)",
+    "@description_arabic": {
+        "description": "description_arabic"
+    },
+
+    "description_english": "Description (English)",
+    "@description_english": {
+        "description": "description_english"
+    },
+
+    "please_enter_name": "Please enter a name",
+    "@please_enter_name": {
+        "description": "please_enter_name"
+    },
+
+    "event_name_arabic": "Event Name (Arabic)",
+    "@event_name_arabic": {
+        "description": "event_name_arabic"
+    },
+
+    "please_enter_name": "Please enter a name",
+    "@please_enter_name": {
+        "description": "please_enter_name"
+    },
+
+    "event_name_english": "Event Name (English)",
+    "@event_name_english": {
+        "description": "event_name_english"
+    },
+
+    "image": "Image",
+    "@image": {
+        "description": "image"
+    },
+
+    "add_an_event": "Add an Event",
+    "@add_an_event": {
+        "description": "add_an_event"
+    },
+
+    "show": "Show",
+    "@show": {
+        "description": "show"
+    },
+
+        "chooseanimagesource":"ِchoose an image source",
+    "@chooseanimagesource":{
+        "description":"chooseanimagesource"
+
+    },
+    "takephoto":"ِtake photo",
+    "@takephoto":{
+        "description":"takephoto"
+
+    },
+    "selectfromgallery":"ِselect from gallery",
+    "@selectfromgallery":{
+        "description":"selectfromgallery"
+
+    },
+    "removeyourphoto":"ِRemove your photo",
+    "@removeyourphoto":{
+        "description":"removeyourphoto"
+
+    },
+    "areYousuredoyouwanttologout":"ِAre You sure do you want to logout",
+    "@areYousuredoyouwanttologout":{
+        "description":"areYousuredoyouwanttologout"
+
+    },
+    "yes":"ِYes",
+    "@yes":{
+        "description":"yes"
+
+    },
+    "cancel":"ِCancel",
+    "@cancel":{
+        "description":"cancel"
+
+    },
+    "phoneNumber":"Phone Number",
+    "@phoneNumber":{
+        "description":"phoneNumber"
+
+    },
+    "username":"Username",
+    "@username":{
+        "description":"username"
+
+    },
+    "email":"Email",
+    "@email":{
+        "description":"email"
+
+    },
+    "editusername":"Edit Username",
+    "@editusername":{
+        "description":"editusername"
+
+    },
+    "editlocation":"Edit Location",
+    "@editlocation":{
+        "description":"editlocation"
+
+    },
+    "editphonenumber":"Edit phone Number",
+    "@editphonenumber":{
+        "description":"editphonenumber"
+
+    },
+    "editbirthday":"Edit Birthday Date",
+    "@editbirthday":{
+        "description":"editbirthday"
+
+    },
+    "sorryyoucannotedittheEmail":"Sorry, you cannot edit the Email",
+    "@sorryyoucannotedittheEmail":{
+        "description":"sorryyoucannotedittheEmail"
+
+    },
+    "enteryourEmail":"Enter your Email",
+    "@enteryourEmail":{
+        "description":"enteryourEmail"
+
+    },
+    "enteryourPassword":"Enter your Password",
+    "@enteryourPassword":{
+        "description":"enteryourPassword"
+
+    },
+    "emailcannotbeempty":"Email cannot be empty",
+    "@emailcannotbeempty":{
+        "description":"emailcannotbeempty"
+
+    },
+    "pleaseenteravalidemail":"Please enter a valid email",
+    "@pleaseenteravalidemail":{
+        "description":"pleaseenteravalidemail"
+
+    },
+    "passwordcannotbeempty":"Password cannot be empty",
+    "@passwordcannotbeempty":{
+        "description":"passwordcannotbeempty"
+
+    },
+    "pleaseenteravalidpassword":"Please enter a valid password (min. 6 characters)",
+    "@pleaseenteravalidpassword":{
+        "description":"pleaseenteravalidpassword"
+
+    },
+    "login":"Login",
+    "@login":{
+        "description":"login"
+
+    },
+    "forgetPassword":"Forget Password?",
+    "@forgetPassword":{
+        "description":"forgetPassword"
+
+    },
+    "donthaveanaccount":"Don't have an account?",
+    "@donthaveanaccount":{
+        "description":"donthaveanaccount"
+
+    },
+    "signUp":"SignUp",
+    "@signUp":{
+        "description":"signUp"
+
+    },
+    "pleaseverifyyouremailbeforeloggingin":"Please verify your email before logging in",
+    "@pleaseverifyyouremailbeforeloggingin":{
+        "description":"pleaseverifyyouremailbeforeloggingin"
+
+    },
+    "verifyEmail":"Verify Email",
+    "@verifyEmail":{
+        "description":"verifyEmail"
+
+    },
+    "anerroroccurredwhileloggingin":"An error occurred while logging in",
+    "@anerroroccurredwhileloggingin":{
+        "description":"anerroroccurredwhileloggingin"
+
+    },
+    "usernotfound":"User not found",
+    "@usernotfound":{
+        "description":"usernotfound"
+
+    },
+    "nouserfoundforthatemail":"No user found for that email",
+    "@nouserfoundforthatemail":{
+        "description":"nouserfoundforthatemail"
+
+    },
+    "wrongpasswordprovidedforthatuser":"wrong password",
+    "@wrongpasswordprovidedforthatuser":{
+        "description":"wrongpasswordprovidedforthatuser"
+
+    },
+    "registerNow":"Register Now",
+    "@registerNow":{
+        "description":"registerNow"
+
+    },
+    "usernamecannotbeempty":"Username cannot be empty",
+    "@usernamecannotbeempty":{
+        "description":"usernamecannotbeempty"
+
+    },
+    "pleaseenteravalidemail":"Please enter a valid email",
+    "@pleaseenteravalidemail":{
+        "description":"pleaseenteravalidemail"
+
+    },
+    "password":"Password",
+    "@password":{
+        "description":"password"
+
+    },
+    "passwordsdonotmatch":"Passwords do not match",
+    "@passwordsdonotmatch":{
+        "description":"passwordsdonotmatch"
+
+    },
+    "locationcannotbeempty":"Passwords do not match",
+    "@locationcannotbeempty":{
+        "description":"locationcannotbeempty"
+
+    },
+    "phonenumbercannotbeempty":"Phone number cannot be empty",
+    "@phonenumbercannotbeempty":{
+        "description":"phonenumbercannotbeempty"
+
+    },
+    "birthdaydatecannotbeempty":"Birthday date cannot be empty",
+    "@birthdaydatecannotbeempty":{
+        "description":"birthdaydatecannotbeempty"
+
+    },
+    "register":"Register",
+    "@register":{
+        "description":"register"
+
+    },
+    "back":"Back",
+    "@back":{
+        "description":"back"
+
+    },
+    "emailalreadyinuse":"Email already in use. Please use a different email",
+    "@emailalreadyinuse":{
+        "description":"emailalreadyinuse"
+
+    },
+    "senttoemail":"Sent to email",
+    "@senttoemail":{
+        "description":"senttoemail"
+
+    },
+    "youremailaddressappearstobemalformed":"Your email address appears to be malformed",
+    "@youremailaddressappearstobemalformed":{
+        "description":"youremailaddressappearstobemalformed"
+
+    },
+    "userwiththisemaildoesntexist":"User with this email doesn't exist",
+    "@userwiththisemaildoesntexist":{
+        "description":"userwiththisemaildoesntexist"
+
+    },
+    "userwiththisemailhasbeendisabled":"User with this email has been disabled",
+    "@userwiththisemailhasbeendisabled":{
+        "description":"userwiththisemailhasbeendisabled"
+
+    },
+    "toomanyrequests":"Too many requests",
+    "@toomanyrequests":{
+        "description":"toomanyrequests"
+
+    },
+     "signinginwithEmailandPasswordisnotenabled":"Signing in with Email and Password is not enabled",
+    "@signinginwithEmailandPasswordisnotenabled":{
+        "description":"signinginwithEmailandPasswordisnotenabled"
+
+    },
+    "anundefinedErrorhappened":"An undefined Error happened",
+    "@anundefinedErrorhappened":{
+        "description":"anundefinedErrorhappened"
+
+    },
+    "passwordReset":"Password Reset",
+    "@passwordReset":{
+        "description":"passwordReset"
+
+    },
+    "send":"Send",
+    "@send":{
+        "description":"send"
+
+    },
+    "verifyyourEmailAddress":"Verify your Email Address",
+    "@verifyyourEmailAddress":{
+        "description":"verifyyourEmailAddress"
+
+    },
+        "verifyEmailDescription":"We have just send email verification link on your email. Please check email and click on that link to verify your Email address.",
+    "@verifyEmailDescription":{
+        "description":"verifyEmailDescription"
+
+    },
+    "verificationemailsentCheckyourinbox":"Verification email sent. Check your inbox",
+    "@verificationemailsentCheckyourinbox":{
+        "description":"verificationemailsentCheckyourinbox"
+
+    },
+    "backtoLogin":"Back to login page",
+    "@backtoLogin":{
+        "description":"backtoLogin"
+
+    },
+    "resendVerificationEmail":"Resend Verification Email",
+    "@resendVerificationEmail":{
+        "description":"resendVerificationEmail"
+
+    },
+    "emailisnotverifiedPleasecheckyouremail":"Email is not verified. Please check your email",
+    "@emailisnotverifiedPleasecheckyouremail":{
+        "description":"emailisnotverifiedPleasecheckyouremail"
+
+    },
+    "nouseriscurrentlyloggedin":"No user is currently logged in",
+    "@nouseriscurrentlyloggedin":{
+        "description":"nouseriscurrentlyloggedin"
+
+    },
+    "cremisanWinery":"Cremisan Winery",
+    "@cremisanWinery":{
+        "description":"cremisanWinery"
+
+    },
+    "reservationRequired":"Reservation Required",
+    "@reservationRequired":{
+        "description":"reservationRequired"
+
+    },
+    "winaryinfo1":"The Cremisan Winery has been managed for more than a century by the Salesians, and still today, its revenues represent a valuable source of support for the variety of educational, socio-recreational, and spiritual advancement activities and opportunities they provide to most disadvantaged children and young people in the Middle East, a region dramatically torn by war, poverty, and instability.",
+    "@winaryinfo1":{
+        "description":"winaryinfo1"
+
+    },
+    "winaryinfo2":"Part of the local grapes used for our wines are grown in the Salesian vineyards of Cremisan, while the rest are supplied by small local farmers, therefore supporting local economic development.",
+    "@winaryinfo2":{
+        "description":"winaryinfo2"
+
+    },
+    "winaryinfo3":"Moreover, the Winery has an outdoor green area for special events like weddings, engagements and group gatherings. Besides that, the winery direction organizes the infamous wine festival twice a year where it hosts more than 1000 people, locals and foreigners.",
+    "@winaryinfo3":{
+        "description":"winaryinfo3"
+
+    },
+    "productsoftheWinery":"Products of the Winery",
+    "@productsoftheWinery":{
+        "description":"productsoftheWinery"
+
+    },
+    "forreservationpleasecall":"For Reservation, please call",
+    "@forreservationpleasecall":{
+        "description":"forreservationpleasecall"
+
+    },
+    "convent":"The Convent",
+    "@convent":{
+        "description":"convent"
+
+    },
+        "conventMap":"Convent",
+    "@conventMap":{
+        "description":"conventMap"
+
+    },
+    "flowergardens":"The Flower Gardens",
+    "@flowergardens":{
+        "description":"flowergardens"
+    },
+
+        "flowergardensMap":"Flower Gardens",
+    "@flowergardensMap":{
+        "description":"flowergardensMap"
+    },
+    "bbqAreas":"BBQ Areas",
+    "@bbqAreas":{
+        "description":"bbqAreas"
+
+    },
+    "simansrouji":"Simaan Srouji House",
+    "@simansrouji":{
+        "description":"simansrouji"
+
+    },
+    "playground":"The Playground",
+    "@playground":{
+        "description":"playground"
+
+    },    "playgroundMap":"Playground",
+    "@playgroundMap":{
+        "description":"playgroundMap"
+
+    },
+    "organicgarden":"Organic Garden",
+    "@organicgarden":{
+        "description":"organicgarden"
+
+    },
+    "starofBethlehemRed":"Star of Bethlehem Red",
+    "@starofBethlehemRed":{
+        "description":"starofBethlehemRed"
+
+    },
+    "starofBethlehemWhite":"Star of Bethlehem White",
+    "@starofBethlehemWhite":{
+        "description":"starofBethlehemWhite"
+
+    },
+    "messaRed":"Messa Red (Medium Sweet)",
+    "@messaRed":{
+        "description":"messaRed"
+
+    },
+    "messaWhite":"Messa White (Medium Sweet)",
+    "@messaWhite":{
+        "description":"messaWhite"
+
+    },
+    "limoncello":"Limoncello",
+    "@limoncello":{
+        "description":"limoncello"
+
+    },
+    "lemonCream":"Lemon Cream",
+    "@lemonCream":{
+        "description":"lemonCream"
+
+    },
+    "coffeeLiqueur":"Coffee Liqueur",
+    "@coffeeLiqueur":{
+        "description":"coffeeLiqueur"
+
+    },
+    "baladi":"Baladi",
+    "@baladi":{
+        "description":"baladi"
+
+    },
+    "rose":"Rosé (Baladi)",
+    "@rose":{
+        "description":"rose"
+
+    },
+    "hamdani":"Hamdani Jandali",
+    "@hamdani":{
+        "description":"hamdani"
+
+    },
+    "dabouki":"Dabouki",
+    "@dabouki":{
+        "description":"dabouki"
+
+    },
+    "cherryLiqueur":"Cherry Liqueur",
+    "@cherryLiqueur":{
+        "description":"cherryLiqueur"
+
+    },
+    "grapeJuice":"Grape Juice",
+    "@grapeJuice":{
+        "description":"grapeJuice"
+
+    },
+    "vinegar":"Vinegar",
+    "@vinegar":{
+        "description":"vinegar"
+
+    },
+    "oil":"Extra Virgin Olive Oil",
+    "@oil":{
+        "description":"oil"
+
+    },
+    "reserve":"Reserve",
+    "@reserve":{
+        "description":"reserve"
+
+    },
+    "cabernet":"Cabernet Sauvignon",
+    "@cabernet":{
+        "description":"cabernet"
+
+    },
+    "brandy":"Brandy",
+    "@brandy":{
+        "description":"brandy"
+
+    },
+    "arak":"Arak",
+    "@arak":{
+        "description":"arak"
+
+    },
+    "bbqinfo":"Cremisan has a separate BBQ area away from the forest to prevent fires. This section has four tables, each of which may seat up to eight people.",
+    "@bbqinfo":{
+        "description":"bbqinfo"
+
+    },
+    "conventinfo1":"The Cremisan Convent was founded in 1883 as a religious educational house for the Holy Family congregation. Fr. Belloni had founded this congregation in 1874 – and in 1891 it was united with the Salesians of Don Bosco. Moreover, in 1885 a small winery was established in Cremisan to guarantee, through wine production, work opportunities to the poor people in the area and to ensure the institute's self-sufficiency.",
+    "@conventinfo1":{
+        "description":"conventinfo1"
+
+    },
+    "conventinfo2":"From 1957 to 2004, the Cremisan Convent hosted the Salesian Institute for Theological Studies, accommodating up to 50 young Salesian students per year coming from all around the world. Nowadays, the convent includes the headquarters center of the Salesians in the Middle East region and the Planning and Development Office for the Holy Land, and, of course, the Wine estate and industry.",
+    "@conventinfo2":{
+        "description":"conventinfo2"
+
+    },
+    "entryforemployeesonly":"Entry for employees only",
+    "@entryforemployeesonly":{
+        "description":"entryforemployeesonly"
+
+    },
+    "organicgardeninfo":"The Salesians in Cremisan established an organic vegetable garden and gardening plan, thanks to the generous donations of donors, This is to make available healthy and environmentally sustainable fruits and vegetables- in each season.",
+    "@organicgardeninfo":{
+        "description":"organicgardeninfo"
+
+    },
+    "playgroundinfo":"The Salesians of Don Bosco in Cremisan inaugurated a recreational spaces in May 2022 including a multipurpose playground – football and basketball- along with children's games spaces and a seating area for families.",
+    "@playgroundinfo":{
+        "description":"playgroundinfo"
+
+    },
+    "simaninfo1":"This house was named after Simaan Srouji (1877-1943) who was born in Nazareth and spent his entire life as a Salesian coadjutor in Bethgamàl - following years of apprenticeship in Don Belloni's orphanage in Bethlehem. It was a historical period in Palestine marked by significant political changes: two world wars, the collapse of the Ottoman Empire, the British mandate, and the start of the Arab-Israeli conflict. In the context of these events, both the religious community's efforts and Simon’s were in the service of the disadvantaged and refugee people.",
+    "@simaninfo1":{
+        "description":"simaninfo1"
+
+    },
+    "simaninfo2":"As a 'contemplative in action,' he worked at the school as a teacher and catechist for boys, as master of ceremonies in the reconstructed shrine of St Stephen, and as a nurse in the outpatient clinic, where sick people came from about fifty villages. In his spiritual works, he mapped out a path of everyday sanctification for himself and others, which may still be followed today.",
+    "@simaninfo2":{
+        "description":"simaninfo2"
+
+    },
+    "simaninfo3":"This house can be rented and reserved for spiritual gatherings, workshops, and internal activities for groups.",
+    "@simaninfo3":{
+        "description":"simaninfo3"
+
+    },
+    "flowerinfo":"These Gardens are intended to serve as photo shooting locations, with green spaces and seasonal flowers, as well as some green plants.",
+    "@flowerinfo":{
+        "description":"flowerinfo"
+
+    },
+   "number1":"02-274 2605",
+    "@number1":{
+        "number1":"number1"
+
+    },
+    "number2":"02-274 4825",
+    "@number2":{
+        "description":"number2"
+
+    },
+    "visitors":"ِWe urge all visitors to not remove or handle any plant, animal or stone in the area. Nature evolved over millions of years. Let us enjoy it but leave it as is.",
+    "@visitors":{
+        "description":"visitors"
+
+    },
+    
+    "hello": "Welcome To Cremisan",
+    "@hello":{
+        "description":"hello"
+
+    },
+    "welcometocremisan":"ِWelcome to Cremisan! Were delighted to have you here. This beautiful area is not just ours to enjoy but also our responsibility to protect. Your contribution can make a significant difference in keeping Cremisan clean and vibrant.",
+    "@welcometocremisan":{
+        "description":"welcometocremisan"
+
+    },
+    "highlight": "Highlight the Beauty",
+    "@highlight":{
+        "description":"highlight"
+
+    },
+    "look": "Look around you—the breathtaking scenery, the incredible wildlife biodiversity, and the clean air. Cremisan's beauty is what lures us all here. By keeping it clean, we ensure that future generations can experience the same wonder.",
+    "@look":{
+        "description":"look"
+
+    },
+     "educate": "Educate About Wildlife",
+    "@educate":{
+        "description":"educate"
+
+    },
+      "cremisan": "Cremisan is home to various plant and animal species. Litter and pollution harm their habitats. By responsible disposture of your waste, you're helping protect the homes of countless living creatures here.",
+    "@cremisan":{
+        "description":"cremisan"
+
+    },
+
+     "share": "Share Facts",
+    "@share":{
+        "description":"share"
+
+    },
+     "did": "Did you know that plastic waste takes hundreds of years to decompose? By using reusable items and recycling, you're preventing harmful materials from damaging the environment for centuries.",
+    "@did":{
+        "description":"did"
+
+    },
+     "personal": "Personal Responsibility",
+    "@personal":{
+        "description":"personal"
+
+    },
+     "each": "Each piece of trash that finds its way into nature has an impact. Every wrapper, can or bottle matters. By simply keeping your waste until you find a proper disposal bin, you're being part of the solution.",
+    "@each":{
+        "description":"each"
+
+    },
+      "inspire": "Inspire Community Spirit",
+    "@inspire":{
+        "description":"inspire"
+
+    },
+     "community": "Cremisan is a community treasure, and it's our responsibility to guard this treasure entrusted to all of us. Let's set an example for others. If you see litter, consider picking it up. Small acts can inspire bigger changes.",
+    "@community":{
+        "description":"community"
+
+    },
+     "future": "Future Generations",
+    "@future":{
+        "description":"future"
+
+    },
+      "think": "Think about the children who will visit Cremisan after you. Let’s ensure that they have a clean, thriving environment. By respecting nature today, we're preserving it for our kids and their kids.",
+    "@think":{
+        "description":"think"
+
+    },
+     "request": "Request for Support",
+    "@request":{
+        "description":"request"
+
+    },
+      "kindly": "We kindly ask for your help. Please join us in our commitment to keep Cremisan clean. Spread the word, encourage others, and together, let’s make a positive change.",
+    "@kindly":{
+        "description":"kindly"
+    },
+       "positive": "Positive Reinforcement",
+    "@positive":{
+        "description":"positive"
+
+    },
+        "appreciate": "We appreciate responsible visitors like you who care about preserving the environment. Your mindful actions inspire others and contribute to the ongoing beauty of Cremisan. Thank you for being a part of our efforts.",
+    "@appreciate":{
+        "description":"appreciate"
+
+    },
+    
+       "gratitude": "Gratitude for Cooperation",
+    "@gratitude":{
+        "description":"gratitude"
+
+    },
+    
+       "thank": "Thank you for your cooperation. Your efforts might seem small, but collectively, they create a significant impact. Together, we can maintain Cremisan's cleanliness and serenity",
+    "@thank":{
+        "description":"thank"
+
+    },
+    
+       "get": "Get Started",
+    "@get":{
+        "description":"get"
+
+    },
+     
+       "skip": "SKIP",
+    "@skip":{
+        "description":"skip"
+
+    },
+    
+  "next": "NEXT",
+    "@next":{
+        "description":"next"
+
+    },
+    "st": "St. John Bosco and the Salesians",
+    "@st":{
+        "description":"st"
+
+    },
+     
+     "salesians": "The Salesians are a congregation of religious men founded by an Italian Catholic priest, Fr. John Bosco. Fr. John Bosco was popularly known as “Don” Bosco, using the Italian word Don to mean Father Bosco.",
+    "@salesians":{
+        "description":"salesians"
+
+    },
+     
+       "work": "He began his work in Turin, Italy, in the mid-1800s by gathering poor boys and young men who had no place to live and little education. He established a place called an oratory where these young people could gather and call their home. It was the beginning of a movement grounded in John’s educational style based on reason, religion, and loving-kindness, that is on love rather than punishment, a method that became known as the Salesian Preventive System. From among the young men at the oratory, he founded a religious congregation, the Salesian Society, which consisted of priests and brothers.",
+    "@work":{
+        "description":"work"
+
+    },
+      "saint": "Don Bosco was a follower of Saint Francis de Sales’ simple spirituality and philosophy of kindness and established the Society of St. Francis de Sales in his honor in 1859—popularly known as the Salesians. Don Bosco established a network of organizations and centers to carry on his work.",
+    "@saint":{
+        "description":"saint"
+
+    },
+   
+   "help": " With the help of Sr. Maria Domenica Mazzarello, Don Bosco founded a society for women, the Daughters of Mary Help of Christians, known as the Salesian Sister, dedicated to the care and education of poor girls.",
+    "@help":{
+        "description":"help"
+
+    },
+    
+    "don": " Don Bosco also started with the help of many laypeople. In 1876, he founded a movement of lay persons, the Association of Salesian Cooperators, with the same educational mission to the poor.Following his beatification in 1929, Don Bosco was canonized as a saint in the Roman Catholic Church by Pope Pius XI in 1934. Since then, his society has been known as the Salesians of Don Bosco.",
+    "@don":{
+        "description":"don"
+
+    },
+
+    "today": "Today, the Salesians continue his mission of making each Salesian school, parish, youth center, or other work a home where young people are welcome, a school where they learn the lessons of life, a parish where they gather to deepen their spirituality and a playground where they can meet friends. These offer a variety of dynamic activities designed to help young people reach their full potential and achieve happiness in this life and in the next.",
+    "@today":{
+        "description":"today"
+
+    },
+    "holy": "The Salesians' congregation in the Holy Land began in late 1893, when Fr. Antonio Belloni and around half of his confreres entered the Salesian Congregation, professing the vows and Rule.This came about after meeting Fr. John Bosco and realizing how similar their goals and missions were: to serve and offer the poorest of adolescents a brighter future through education and care Fr. Belloni founded the first orphanage in  Bethlehem Area in 1864 to care for orphans in Bethlehem and Beit Jala  by offering them shelter and a proper religious and vocational education. Until now, he is known as the father of the orphans “ Abu El Yatama” in both the Holy Land and the Middle East. ",
+    "@holy":{
+        "description":"holy"
+
+    },
+
+     "belongs": "Cremisan Convent belongs to the Salesians of Don Bosco (SDB), a religious Congregation of the Roman Catholic Church. the name Cremisan probably means “kerm zan” i.e the vineyard of zani grapes, a kind of local grapes which is still cultivated in the area between Bethlehem and Hebron. According to the Ottoman documents, the name Cremisan is derived from the two words Kira and Mizan. Kira means ‘dark color’, a color associated with describing areas that are extensively planted with vegetables and trees, and Mizan refers to the terraced flat lands. Constructed near a water spring that bears the name ‘Kirmizan’, Cremisan Convent was called by this name accordingly.  ",
+    "@belongs":{
+        "description":"belongs"
+
+    },
+     "area": "Today the area of Cremisan is acknowledged as one of the most beautiful localities in the area, not just for its natural ecological surroundings, but especially due to the patient and dedicated work of many Salesians who over the decades terraced the slopes, cultivated vineyards, olive groves, and afforested wide areas with one of the oldest pine-woods of the area. Their efforts and commitment have widely contributed to the winery’s development. These features make Cremisan one of the most desirable destinations for excursions and visits for local people, visitors, and tourists alike.",
+    "@area":{
+        "description":"area"
+
+    },
+     "inquiries": "  If you have any inquiries,get in touch with us.well be happy to help you.",
+    "@inquiries":{
+        "description":"inquiries"
+
+    },
+     "callme": "Phone number ",
+    "@callme":{
+        "description":"callme"
+
+    },
+     "emailus": "Email Address",
+    "@emailus":{
+        "description":"emailus"
+
+    },
+     "visitus": "Visit Us",
+    "@visitus":{
+        "description":"visitus"
+
+    },
+       "followus": "",
+    "@followus":{
+        "description":"followus"
+
+    },
+       "scan": "You can scan the QR code by clicking this button",
+    "@scan":{
+        "description":"scan"
+
+    },
+    "qr": "Scan Now",
+    "@qr":{
+        "description":"qr"
+
+    },
+    "open": "Open Link",
+    "@open":{
+        "description":"open"
+    },
+    "phoneNumber": "Phone Number",
+    "@phoneNumber":{
+        "description":"phoneNumber"
+    },
+    "queen": "Cremisan",
+    "@queen":{
+        "description":"queen"
+
+    },
+      "confirmPassword": "Confirm Password",
+    "@confirmPassword":{
+        "description":"confirmPassword"
+
+    },
+          "number3": "+97022744025",
+    "@number3":{
+        "description":"number3"
+
+    },
+  "email3": "cremisan.salesian.convent@gmail.com ",
+    "@email3":{
+        "description":"email3"
+
+    },
+    "loc": "Cremisan Wine State , Biet Jala ",
+    "@loc":{
+        "description":"loc"
+
+    },
+     "addplantcategory": "Add Plant Category",
+    "@addplantcategory":{
+        "description":"addplantcategory"
+
+    },
+      "add_plant": "Add Plant",
+    "@add_plant":{
+        "description":"add_plant"
+
+    },
+     "family_english": "Family (English)",
+    "@family_english":{
+        "description":"family_english"
+
+    },
+    "pleaseenterfamily_english": "Please enter a family in English",
+    "@pleaseenterfamily_english":{
+        "description":"pleaseenterfamily_english"
+
+    },
+     "family_arabic": "Family (Arabic)",
+    "@family_arabic":{
+        "description":"family_arabic"
+
+    },
+    
+     "pleaseenterfamily_arabic": "Please enter a family in Arabic",
+    "@pleaseenterfamily_arabic":{
+        "description":"pleaseenterfamily_arabic"
+
+    },
+
+         "pleaseEnterPhone": "Please enter the phone number",
+    "@pleaseEnterPhone":{
+        "description":"pleaseEnterPhone"
+
+    },
+    "speciesnameenglish": "Species Name (English)",
+    "@speciesnameenglish":{
+        "description":"speciesnameenglish"
+
+    },
+     "pleaseenteraspeciesnameinenglish": "Please enter a species name in English",
+    "@pleaseenteraspeciesnameinenglish":{
+        "description":"pleaseenteraspeciesnameinenglish"
+
+    },
+    "speciesnamearabic": "Species Name (Arabic)",
+    "@speciesnamearabic":{
+        "description":"speciesnamearabic"
+
+    },
+
+    "king": "Please enter a species name in Arabic'",
+    "@king":{
+        "description":"king"
+
+    },
+
+
+   "editanimalcategory": "Edit Animal Category",
+    "@editanimalcategory":{
+        "description":"editanimalcategory"
+
+    },
+    
+   "pleaseenteracategorynameinEnglish": "Please enter a category name in English",
+    "@pleaseenteracategorynameinEnglish":{
+        "description":"pleaseenteracategorynameinEnglish"
+
+    },
+    "pleaseenteracategorynameinarabic": "Please enter a category name in Arabic",
+    "@pleaseenteracategorynameinarabic":{
+        "description":"pleaseenteracategorynameinarabic"
+
+    },
+    "update": "Update",
+    "@update":{
+        "description":"update"
+
+    },
+    "editanimal": "Edit Animal",
+    "@editanimal":{
+        "description":"editanimal"
+
+    },
+    "category": "Category",
+    "@Category":{
+        "description":"Category"
+
+    },
+    "pleaseentercategoryname": "Please enter category name",
+    "@pleaseentercategoryname":{
+        "description":"pleaseentercategoryname"
+
+    },
+    "editactivity": "Edit Activity",
+    "@editactivity":{
+        "description":"editactivity"
+
+    },
+    "editplantcategory": "Edit Plant Category",
+    "@editplantcategory":{
+        "description":"editplantcategory"
+
+    },
+    
+     "editplant": "Edit Plant ",
+    "@editplant":{
+        "description":"editplant"
+
+    },
+    "confirmtocompletedeleteprocess": "Confirm to complete delete process ",
+    "@confirmtocompletedeleteprocess":{
+        "description":"confirmtocompletedeleteprocess"
+
+    },
+      "edit": " Edit  ",
+    "@edit":{
+        "description":"edit"
+
+    },
+     "confirm": " Confirm  ",
+    "@confirm":{
+        "description":"confirm"
+
+    },
+     "delete": " Delete  ",
+    "@delete":{
+        "description":"delete"
+
+    },
+     "confirmtoapplydeletion": " confirm to apply deletion!  ",
+    "@confirmtoapplydeletion":{
+        "description":"confirmtoapplydeletion"
+
+    },
+   "refresh": " refresh  ",
+    "@refresh":{
+        "description":"refresh"
+
+    },
+    "refreshtoapplychanges": " refresh to apply changes !  ",
+    "@refreshtoapplychanges":{
+        "description":"refreshtoapplychanges"
+
+    },
+      "deletedsuccessfully": " Deleted Successfully !  ",
+    "@deletedsuccessfully":{
+        "description":"deletedsuccessfully"
+
+    },
+      "place": "Place  ",
+    "@place":{
+        "description":"place"
+
+    },
+     "description": "Description  ",
+    "@description":{
+        "description":"description"
+
+    },
+ "animalsdashboard": "Animals Dashboard  ",
+    "@animalsdashboard":{
+        "description":"animalsdashboard"
+
+    },
+     "plantdashboard": "Plants Dashboard  ",
+    "@plantdashboard":{
+        "description":"plantdashboard"
+
+    },
+    "activitiesdashboard": "Activities Dashboard  ",
+    "@activitiesdashboard":{
+        "description":"activitiesdashboard"
+
+    },
+    "attractions": "Attractions",
+    "@attractions":{
+        "description":"attractions"
+
+    },
+    "wineProducts": "Wine Products",
+    "@wineProducts":{
+        "description":"wineProducts"
+
+    },
+
+     "housewines": "House Wines",
+    "@housewines":{
+        "description":"housewines"
+
+    },
+
+    "nativegrape": "Native Grape",
+    "@nativegrape":{
+        "description":"nativegrape"
+
+    },
+    "clear": "Clear",
+    "@clear":{
+        "description":"clear"
+
+    },
+
+    "reservedwines": "Reserved Wines",
+    "@reservedwines":{
+        "description":"reservedwines"
+
+    },
+    "superalcohol": "Super Alcohol",
+    "@superalcohol":{
+        "description":"superalcohol"
+
+    },
+    "liqueurs": "Liqueurs",
+    "@liqueurs":{
+        "description":"liqueurs"
+
+    },
+    
+    "nonalcohol": "Non-Alcoholic",
+    "@nonalcohol":{
+        "description":"nonalcohol"
+
+    },
+   
+
+    "view_users": "View Users",
+    "@view_users":{
+        "description":"view users"
+
+    
+     },
+    "socialmedia": "Social Media",
+    "@socialmedia":{
+        "description":"socialmedia"
+
+    },
+     "facebook": "Facebook",
+    "@facebook":{
+        "description":"facebook"
+
+    },
+     "instgram": "Instagram",
+    "@instgram":{
+        "description":"instgram"
+
+    },
+    "prearrangedvisit": "Pre-arranged visit",
+    "@prearrangedvisit":{
+        "description":"prearrangedvisit"
+
+    },
+    "save": "Save",
+    "@save":{
+        "description":"save"
+
+    },
+    "followusoninstagram": "Follow us on Istagram",
+    "@followusoninstagram":{
+        "description":"followusoninstagram"
+
+    },
+     "followusonfacebok": "Follow us on Facebok",
+    "@followusonfacebok":{
+        "description":"followusonfacebok"
+
+    }
+
+
+   
+    }
+
+
+
+   
+
+
+
